@@ -6,7 +6,7 @@ FFD is a fast scale-invariant feature detector for computer vision tasks. This r
 
 
 
-* Full paper PDF: [FFD: Fast Feature Detector](https://???).
+* Full paper PDF: [FFD: Fast Feature Detector](https://arxiv.org/pdf/2012.00859.pdf).
 
 * Authors: Morteza Ghahremani, Yonghuai Liu and Bernard Tiddeman
 
