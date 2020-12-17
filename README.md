@@ -34,14 +34,14 @@ python3 match_pairs.py
 If you use any ideas from the paper or code from this repo, please consider citing:
 
 ```txt
-@ARTICLE{???,
+@ARTICLE{9292438,
   author={M. {Ghahremani} and Y. {Liu} and B. {Tiddeman}},
   journal={IEEE Transactions on Image Processing}, 
   title={FFD: Fast Feature Detector}, 
-  year={2021},
-  volume={-},
-  number={-},
-  pages={-},
-  doi={--}}
+  year={2020},
+  volume={},
+  number={},
+  pages={1-1},
+  doi={10.1109/TIP.2020.3042057}}
 
 ```
