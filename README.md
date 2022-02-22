@@ -15,13 +15,14 @@ FFD is a fast scale-invariant feature detector for computer vision tasks. This r
 ## Dependencies
 * Python 3 >= 3.5
 * OpenCV >= 3.4 
+    (tested on `opencv-python==3.4.11.45` & `opencv-contrib-python==3.4.11.45`)
 * NumPy >= 1.18
 
 
 ## Contents
 There are two main scripts in this repo:
 
-1. `demo_FFD.py`: runs and shows extracted keypoints located in `image/`
+1. `demo_FFD.py`: runs and shows extracted keypoints from images located in `image/`
 2. `match_pairs.py`: reads an image pair from `image/` and matches (SIFT descriptor is used for feature description)
 
 ```sh
