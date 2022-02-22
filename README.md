@@ -29,6 +29,7 @@ There are two main scripts in this repo:
 python3 demo_FFD.py
 python3 match_pairs.py
 ```
+P.S. If you get error: "./FFD: Permission denied", please just run `chmod 777 FFD'.
 
 
 ## BibTeX Citation
